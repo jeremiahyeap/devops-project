@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\elich\git\repository\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3197534430.index
+\maven.eclipse\src\main\java
+C:\Users\elich\git\repository\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1538933027.index
+\maven.eclipse\src\main\java
+C:\Users\elich\git\repository\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3601629548.index
+\HelloWorldJavaEE\src\main\java
